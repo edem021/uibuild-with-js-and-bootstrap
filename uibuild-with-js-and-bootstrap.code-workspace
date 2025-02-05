@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../async"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "uibuild-with-js-and-bootstrap"
+	}
+}
